@@ -1,5 +1,5 @@
 # Breakout Game
-A clone of the 80s hit game Breakout using Python Turtle
+A clone of the 80s hit game Breakout using Python Turtle.
 
 ![breakout](breakout.gif)
 
